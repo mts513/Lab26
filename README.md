@@ -15,20 +15,6 @@
 - [jsdoc](http://xyz.com) (Server assignments)
 - [styleguide](http://xyz.com) (React assignments)
 
-### Modules
-
-#### `modulename.js`
-
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-
-Usage Notes or examples
-
-###### `bar(array) -> array`
-
-Usage Notes or examples
-
 ### Setup
 
 #### `.env` requirements
