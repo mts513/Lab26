@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/mts513/Lab26/pull/1)
 - [travis](http://xyz.com)
 - [back-end](http://xyz.com) (when applicable)
 - [front-end](http://xyz.com) (when applicable)
@@ -14,20 +14,6 @@
 - [api docs](http://xyz.com) (API servers)
 - [jsdoc](http://xyz.com) (Server assignments)
 - [styleguide](http://xyz.com) (React assignments)
-
-### Modules
-
-#### `modulename.js`
-
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-
-Usage Notes or examples
-
-###### `bar(array) -> array`
-
-Usage Notes or examples
 
 ### Setup
 
